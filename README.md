@@ -28,24 +28,21 @@ The results of the object detection are displayed in the form of bounding boxes 
 ## Instructions to run the Project:
 1. Clone the repository.
 ```
-git clone https://github.com/deepakthakur-92
+git clone https://github.com/deepakthakur-92/Sign-Language-Generation-From-Video-using-YOLOV5.git
 ```
-## STEP 02: 
-Create an environment
+2. Create an environment
 
 ```bash
 conda create --prefix ./env python=3.7 -y
 ```
 
-## STEP 03:
-Activate the environment
+3. Activate the environment
 
 ```bash
 conda activate ./env
 ```
 
-## STEP 04: 
-Install the requirements
+4. Install the requirements
 
 ```bash
 pip install -r requirements.txt
